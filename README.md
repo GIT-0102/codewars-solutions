@@ -13,7 +13,7 @@ This repository contains my Python solutions to CodeWars problems.
 
 # Solved Problems
 
-# 8 kyu
+## 8 kyu
 1. Do you speak English
 2. Opposites Attract
 
