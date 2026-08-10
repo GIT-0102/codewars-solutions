@@ -6,7 +6,7 @@ This repository contains my Python solutions to CodeWars problems.
 
 | Difficulty | Solved |
 |------------|--------|
-| 8 kyu | 4 |
+| 8 kyu | 5 |
 | 7 kyu | 0 |
 | 6 kyu | 0 |
 | 5 kyu | 0 |
@@ -18,6 +18,6 @@ This repository contains my Python solutions to CodeWars problems.
 2. Opposites Attract
 3. Are you playing banjo
 4. Rock Paper Scissors
-
+5. Converting a number into a String
 
 I will update this repository as I solve more problems.
